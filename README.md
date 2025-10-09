@@ -1,4 +1,4 @@
-![github-repository-share_demo-bat](https://github.com/user-attachments/assets/ccf4cd29-c65d-4517-82a5-d98784a69895)
+![github-repository-share_demo-dog](https://github.com/user-attachments/assets/e727e68e-1358-41d7-a880-a6f4173baedf)
 
 ## 👻 Caça aos Bugs 2025 - Desafio 02 - Demo Dog
 
