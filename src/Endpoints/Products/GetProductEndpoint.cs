@@ -16,6 +16,6 @@ public class GetProductEndpoint : IEndpoint
 
         var response = await mediator.Send(request);
 
-        return response.Success ? Results.Created(string.Empty, response) : Results.BadRequest(response);
+        return response.Success ? Results.Ok(response) : Results.BadRequest(response);
     }
 }
